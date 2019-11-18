@@ -1,0 +1,6 @@
+.vscode
+node_modules/
+pythonenv/.vscode
+pythonenv/bin
+pythonenv/lib
+pythonenv/include
